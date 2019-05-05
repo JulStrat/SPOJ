@@ -1,6 +1,6 @@
 # SPOJ
 
-My solutions to non classic SPOJ problems.
+SPOJ tutorial problems solutions
 
 julkas[at]spoj[dot]com
 
